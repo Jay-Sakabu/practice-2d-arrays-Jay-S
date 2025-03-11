@@ -9,3 +9,8 @@ let theaterSeating = [
     ["B1", "B2", "B3", "B4"],
     ["C1", "C2", "C3", "C4"]
 ];
+
+let contactsList = [
+    ["Jess", "lemondaydream@outlook.com", "412-818-2134"],
+    ["Jason", "jutp7e2@gmail.com", "924-803-1292"]
+];
